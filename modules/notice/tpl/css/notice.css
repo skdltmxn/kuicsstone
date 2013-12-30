@@ -1,0 +1,5 @@
+@charset "utf-8";
+
+.rule{background:rgba(250,250,250,0.7);width:700px;margin:0 auto;padding:20px 15px;border:1px solid #aaa;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow: 13px 15px 11px rgba(50, 48, 45, 0.7);-moz-box-shadow:13px 15px 11px rgba(50, 48, 45, 0.7);box-shadow:13px 15px 11px rgba(50, 48, 45, 0.7);}
+.rule h3{text-align:center;margin-bottom:30px;}
+.rule p{margin-bottom:20px;}

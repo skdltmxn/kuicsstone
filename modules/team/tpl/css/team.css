@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+.box{
+	background-image:url('../img/door.png');
+	background-size:500px 270px;
+	background-position-x:center;
+	border:1px solid #aaa;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;-webkit-box-shadow: 7px 7px 3px 2px rgba(94,94,94,1);
+-moz-box-shadow: 7px 7px 3px 2px rgba(94,94,94,1);box-shadow: 7px 7px 3px 2px rgba(94,94,94,1);
+	color:white;
+	text-shadow:2px 2px 2px #000;
+	-moz-text-shadow: 2px 2px 2px #000;
+	width:500px;
+	padding:15px 10px;
+	margin:0 auto;
+}
